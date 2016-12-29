@@ -1,0 +1,3 @@
+测试入口：
+控制台命令
+mvn exec:java -Dexec.mainClass="com.spring.test.SpringTest"
